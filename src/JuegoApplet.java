@@ -313,7 +313,7 @@ public class JuegoApplet extends Applet implements Runnable, KeyListener {
             if(aniLink.getX() < 0) { // y esta pasando el limite
                     iDireccion = 4;     // se cambia la direccion para la derecha
                     VelX=-VelX; //Hago que se regrese con la misma velocidad
-                                //pero para en direccion opuesta
+                                //pero para en direccion opuestassss
                     bolGolpeIzq=true;
                     aucSonidoLink.play();
             
